@@ -1,0 +1,8 @@
+pandas
+ipykernel
+openpyxl 
+matplotlib 
+seaborn
+Scipy
+sympy
+numpy
